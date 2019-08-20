@@ -1,0 +1,46 @@
+.blog-musica{
+  background-color: grey;
+}
+
+header{
+  background-color: black;
+  min-height: 100px;
+}
+
+img{
+  width: 100px;
+  height: auto;
+  padding: 10px;
+}
+
+.iconos{
+  width: 50px;
+  padding-top: 60px;
+}
+
+.section{
+  background-color: #FFF;
+  margin-top: 10px;
+}
+
+.img-section{
+  width: 200%;
+  margin-top: 15px;
+  margin-right: 0px;
+}
+
+.glyphicon .glyphicon-comment{
+  font-size: 100px;
+}
+
+@media (max-width: 1200px) {
+.text-md-center {
+text-align: center;
+}
+}
+
+@media (min-width: 1200px) {
+.style {
+  margin-left: 50px;
+}
+}
